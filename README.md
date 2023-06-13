@@ -12,7 +12,9 @@ We propose a statistical approach called duration modeling with semi-Markov Cond
 <p align="center">
  <img style="display: block; margin: auto;" src="Fig/crf.png" width="500">
 </p>
-   <center>The graph structure of CRFs.<center>
+<p align="center">
+   The graph structure of CRFs.
+</p>
 <center> <img src="Fig/smcrf.png" width="500"><center>
     <center>The graph structure of Semi-CRFs.<center>
  <center><img src="Fig/dm-smcrfs.png" width="500"><center>
