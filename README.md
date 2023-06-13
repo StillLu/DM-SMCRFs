@@ -1,5 +1,5 @@
 # DM-SMCRFs
-This repo contains the code for the research work Duration Modeling with Semi-Markov Conditional Random Fields for Keyphrase Extraction.
+This repo contains the code for the research work [Duration Modeling with Semi-Markov Conditional Random Fields for Keyphrase Extraction](https://arxiv.org/abs/2209.09149).
 
 We propose a statistical approach called duration modeling with semi-Markov Conditional Random Fields (DM-SMCRFs) for keyphrase extraction. 
 
