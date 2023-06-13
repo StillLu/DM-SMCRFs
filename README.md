@@ -9,8 +9,9 @@ We propose a statistical approach called duration modeling with semi-Markov Cond
 - Based on the convexity of parametric duration feature derived from duration distribution, a constrained Viterbi algorithm is derived to improve the performance of decoding in DM-SMCRFs.
 - We collect the datasets from various domains (e.g. History, Economics, Psychology), and evaluate DM-SMCRFs on these datasets.
 
-
+<p align="center">
  <img style="display: block; margin: auto;" src="Fig/crf.png" width="500">
+</p>
    <center>The graph structure of CRFs.<center>
 <center> <img src="Fig/smcrf.png" width="500"><center>
     <center>The graph structure of Semi-CRFs.<center>
