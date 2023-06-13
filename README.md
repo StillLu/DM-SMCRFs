@@ -10,7 +10,7 @@ We propose a statistical approach called duration modeling with semi-Markov Cond
 - We collect the datasets from various domains (e.g. History, Economics, Psychology), and evaluate DM-SMCRFs on these datasets.
 
 
- <img src="Fig/1.png" width="200">
+ <img src="Fig/crf.png" width="200">
  *image_caption*
  ![Image text](Fig/smcrf.png)
  ![Image text](Fig/dm-smcrfs.png)
